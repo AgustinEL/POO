@@ -1,0 +1,15 @@
+Herramienta de modelado UML:
+
+https://www.umlet.com/changes.htm
+
+en caso de no tener java deberan instalarlo:
+https://java.com/es/download/
+
+guia en Ingles:
+https://engage-csedu.org/sites/default/files/Lab2UMLDesignDebuggingpart1.pdf
+
+Referencia en stackoverflow:
+https://stackoverflow.com/questions/16546961/umlet-diagrams-like-use-case-class-activity-etc
+
+plantillas de diagramas:
+http://www.itmeyer.at/umlet/uml2/
